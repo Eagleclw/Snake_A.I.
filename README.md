@@ -49,7 +49,6 @@ If there is, it loads the data. If there is no data, it creates them from initia
 When user closes the game, it saves the data to a **JSON** file.  
 So, best scores at game, A.I. states won't be lost.
 
-
 ## Usage
 
 * **Arrow keys** to move (Up,Right,Down,Left)
@@ -65,10 +64,14 @@ Clone or download the files.
 Open the files at an IDE (PyCharm etc.) or run from command line.  
 **main.py** is the main game file to run.  
 
+**NOTE: If you don't want to lose saved game data, first you should change directory to game's directory.**
+* Windows = cd "path\to\snake\game"
+* Linux / MacOS = cd path/to/snake/game  
+
 **Commands to run the game from command line**
 * Windows = "path\to\python\python.exe" "path\to\snake\game\main.py"  
 For example = ("C:\Program Files (x86)\Python38-32\python.exe" "C:\Users\Eagleclw\Desktop\Snake\main.py")
-* Linux / MacOS = python3 path\to\snake\game\main.py
+* Linux / MacOS = python3 path/to/snake/game/main.py  
 
 ## License
 [MIT](https://github.com/Eagleclw/Snake_A.I./blob/master/LICENSE)
