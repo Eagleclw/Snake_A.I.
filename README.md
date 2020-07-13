@@ -70,7 +70,7 @@ Open the files at an IDE (PyCharm etc.) or run from command line.
 
 **Commands to run the game from command line**
 * Windows = "path\to\python\python.exe" "path\to\snake\game\main.py"  
-For example = ("C:\Program Files (x86)\Python38-32\python.exe" "C:\Users\Eagleclw\Desktop\Snake\main.py")
+  * Example = ("C:\Program Files (x86)\Python38-32\python.exe" "C:\Users\Eagleclw\Desktop\Snake\main.py")
 * Linux / MacOS = python3 path/to/snake/game/main.py  
 
 ## License
