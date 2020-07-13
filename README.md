@@ -71,4 +71,4 @@ For example = ("C:\Program Files (x86)\Python38-32\python.exe" "C:\Users\Eaglecl
 * Linux / MacOS = python3 path\to\snake\game\main.py
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/Eagleclw/Snake_A.I./blob/master/LICENSE)
